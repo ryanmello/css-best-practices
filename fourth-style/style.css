@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    border: 4px solid lightgray;
+}
+
+.box{
+    border: 4px solid lightgray;
+    display: flex;
+    width: 100px;
+    height: 100px;
+}
